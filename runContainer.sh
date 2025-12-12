@@ -1,1 +1,1 @@
-docker run -d -p 3000:3000 --name backend-container backend
+docker run -d -p 3000:3000 --name backend-container registry.gitlab.com/tranloc120603/registry/backend-testing-container:latest
